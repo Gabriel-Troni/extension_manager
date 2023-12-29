@@ -224,4 +224,8 @@ div.updateWindow form button:hover {
     .employee li {
         font-size: 16px;
     }
+
+    .updateWindow form {
+        width: 100vw;
+    }
 }
