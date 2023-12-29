@@ -17,7 +17,7 @@ require "extensionSQL.php";
 </head>
 <body>
     <header>
-        <img src="/assets/Images/companyLogo.png" alt="company's logo">
+        <img src="/assets/Images/companyLogo.svg" alt="company's logo">
         <a href="logout.php">Logout</a>
     </header>
     <div class="gap"></div>
