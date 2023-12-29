@@ -1,0 +1,27 @@
+body::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.search::-ms-clear {  
+    display: none; 
+    width : 0; 
+    height: 0; 
+}
+
+.search::-ms-reveal {  
+    display: none; 
+    width : 0; 
+    height: 0; 
+}
+
+.search::-webkit-search-decoration,
+.search::-webkit-search-cancel-button,
+.search::-webkit-search-results-button,
+.search::-webkit-search-results-decoration { 
+    display: none; 
+}
