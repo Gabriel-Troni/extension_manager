@@ -26,13 +26,12 @@
             <form action="<?= "extension.php" ?>" method="POST" id="form">
                 <div class="form-group">
                     <label for="email" class="text-white">Email</label>
-                    <input required type="email" name="email" id="email" class="form-control" placeholder="Enter your email">
+                    <input required type="email" name="email" id="email" class="form-control" value="user@gmail.com or admin@gmail.com">
                     <div id="error-email"></div>
                 </div>
                 <div class="form-group">
                     <label for="password" class="text-white">Password</label>
-                    <input required type="password" name="password" id="password" class="form-control"
-                        placeholder="Enter your password">
+                    <input required type="password" name="password" id="password" class="form-control" value="123">
                         <div id="error-password"></div>
                 </div>
                 <div class="form-group">
