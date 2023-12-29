@@ -143,6 +143,7 @@ form#delete button.delete img, form#update button.update img{
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 
 footer {
@@ -218,5 +219,9 @@ div.updateWindow form button:hover {
         height: 10vh;
         width: 100vw;
         left: 0;
+    }
+
+    .employee li {
+        font-size: 16px;
     }
 }
