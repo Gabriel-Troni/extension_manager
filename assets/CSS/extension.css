@@ -64,7 +64,7 @@ form#insert {
     max-height: 12vh;
     width: 50vw;
     top: 15vh;
-    left: 25vw;
+    left: 24.3vw;
     display: grid;
     grid-template-columns: 2fr 2fr 1fr;
     gap: 10px;
@@ -93,7 +93,6 @@ form#insert {
 
 #container {
     max-width: 50vw;
-    justify-content: center;
     margin: auto;
 }
 
